@@ -2,6 +2,8 @@
 
 A tool for generating comprehensive research reports using [Apify](https://www.apify.com?fpr=prsmf) and your favorite LLM model.
 
+![Demo](demo.gif)
+
 ## Quick Start
 
 ```bash
